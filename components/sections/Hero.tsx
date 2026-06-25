@@ -47,7 +47,7 @@ export function Hero({ profile, capabilities, content }: HeroProps) {
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] bg-slate-900">
               <Image
                 src={profile.profileImageUrl}
-                alt="Foto profesional de Santie Bernal como product builder y desarrollador web"
+                alt="Foto profesional de Carlos Moreno como product builder y desarrollador web"
                 fill
                 priority
                 sizes="(min-width: 1024px) 420px, 90vw"

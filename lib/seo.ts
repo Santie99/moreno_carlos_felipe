@@ -3,15 +3,15 @@ import { absoluteUrl } from "@/lib/utils";
 import type { Profile, Project, Service } from "@/types";
 
 export const siteConfig = {
-  name: "Santie Bernal",
-  title: "Santie Bernal · Product Builder Web & AI",
+  name: "Carlos Moreno",
+  title: "Carlos Moreno · Product Builder Web & AI",
   description:
-    "Portafolio profesional de Santie Bernal: herramientas web, dashboards, PWAs, automatizaciones e IA aplicada para nichos específicos.",
+    "Portafolio profesional de Carlos Moreno: herramientas web, dashboards, PWAs, automatizaciones e IA aplicada para nichos específicos.",
   locale: "es_CO",
-  creator: "Santie Bernal",
+  creator: "Carlos Moreno",
   defaultOgImage: "/projects/funded-os.svg",
   keywords: [
-    "Santie Bernal",
+    "Carlos Moreno",
     "desarrollador web Colombia",
     "product builder Colombia",
     "desarrollador de dashboards",

@@ -5,7 +5,7 @@ import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
   title: "Admin",
-  description: "Panel privado de administración de Santie Bernal.",
+  description: "Panel privado de administración de Carlos Moreno.",
   path: "/admin",
   noIndex: true
 });

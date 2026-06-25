@@ -6,7 +6,7 @@ import { buildMetadata } from "@/lib/seo";
 export const metadata = buildMetadata({
   title: "Proyectos",
   description:
-    "Proyectos de Santie Bernal: dashboards, PWAs, extensiones Chrome, IA aplicada, finanzas, trading y comunidades digitales.",
+    "Proyectos de Carlos Moreno: dashboards, PWAs, extensiones Chrome, IA aplicada, finanzas, trading y comunidades digitales.",
   path: "/proyectos",
   keywords: ["portfolio desarrollador web", "proyectos Next.js", "dashboards Supabase", "PWAs Colombia"]
 });

@@ -7,9 +7,9 @@ import { buildMetadata } from "@/lib/seo";
 export const metadata = buildMetadata({
   title: "Sobre mí",
   description:
-    "Conoce el perfil de Santie Bernal: product builder en etapa temprana enfocado en herramientas web, dashboards, PWAs e IA aplicada.",
+    "Conoce el perfil de Carlos Moreno: product builder en etapa temprana enfocado en herramientas web, dashboards, PWAs e IA aplicada.",
   path: "/sobre-mi",
-  keywords: ["Santie Bernal perfil", "product builder Colombia", "desarrollador web Colombia"]
+  keywords: ["Carlos Moreno perfil", "product builder Colombia", "desarrollador web Colombia"]
 });
 
 export default async function AboutPage() {
@@ -20,7 +20,7 @@ export default async function AboutPage() {
       <div className="grid gap-12 lg:grid-cols-[0.8fr_1.2fr] lg:items-start">
         <div className="glass-card sticky top-24 overflow-hidden rounded-[2.25rem] p-4">
           <div className="relative aspect-[4/5] overflow-hidden rounded-[1.8rem] bg-slate-900">
-            <Image src={profile.profileImageUrl} alt="Foto profesional de Santie Bernal" fill sizes="(min-width: 1024px) 360px, 100vw" className="object-cover object-top" />
+            <Image src={profile.profileImageUrl} alt="Foto profesional de Carlos Moreno" fill sizes="(min-width: 1024px) 360px, 100vw" className="object-cover object-top" />
           </div>
           <div className="p-4">
             <h1 className="text-3xl font-black text-white">{profile.name}</h1>

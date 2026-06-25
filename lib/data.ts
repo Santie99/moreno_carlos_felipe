@@ -153,10 +153,10 @@ const defaultHomeSections: Record<string, HomeSection> = {
 };
 
 export const defaultSiteSettings: SiteSettings = {
-  siteTitle: "Santie Bernal · Product Builder Web & AI",
-  siteDescription: "Portafolio profesional de Santie Bernal: herramientas web, dashboards, PWAs, automatizaciones e IA aplicada para nichos específicos.",
+  siteTitle: "Carlos Moreno · Product Builder Web & AI",
+  siteDescription: "Portafolio profesional de Carlos Moreno: herramientas web, dashboards, PWAs, automatizaciones e IA aplicada para nichos específicos.",
   keywords: [
-    "Santie Bernal",
+    "Carlos Moreno",
     "desarrollador web Colombia",
     "product builder Colombia",
     "desarrollador de dashboards",

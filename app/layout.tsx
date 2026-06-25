@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"),
   title: {
     default: siteConfig.title,
-    template: "%s · Santie Bernal"
+    template: "%s · Carlos Moreno"
   },
-  authors: [{ name: "Santie Bernal" }],
+  authors: [{ name: "Carlos Moreno" }],
   creator: siteConfig.creator,
   applicationName: siteConfig.name,
   category: "technology"

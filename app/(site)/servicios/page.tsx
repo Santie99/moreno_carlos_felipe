@@ -6,7 +6,7 @@ import { buildMetadata, servicesSchema } from "@/lib/seo";
 export const metadata = buildMetadata({
   title: "Servicios",
   description:
-    "Servicios de Santie Bernal: MVP web, dashboards, landing pages estratégicas y automatizaciones simples con IA.",
+    "Servicios de Carlos Moreno: MVP web, dashboards, landing pages estratégicas y automatizaciones simples con IA.",
   path: "/servicios",
   keywords: ["MVP web Colombia", "dashboard operativo", "landing page estratégica", "automatización con IA"]
 });

@@ -7,7 +7,7 @@ import { CONTACT_WHATSAPP_MESSAGE, getContactHref, hasWhatsApp } from "@/lib/wha
 export const metadata = buildMetadata({
   title: "Contacto",
   description:
-    "Contacta a Santie Bernal para oportunidades freelance, empleo, MVPs web, dashboards, automatizaciones o productos digitales.",
+    "Contacta a Carlos Moreno para oportunidades freelance, empleo, MVPs.",
   path: "/contacto",
   keywords: ["contactar desarrollador web", "freelance web Colombia", "MVP web", "dashboards"]
 });

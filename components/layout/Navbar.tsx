@@ -12,7 +12,7 @@ const baseNavItems = [
   { href: "/contacto", label: "Contacto" }
 ];
 
-export function Navbar({ profileName = "Santie Bernal", showNotes = true }: { profileName?: string; showNotes?: boolean }) {
+export function Navbar({ profileName = "Carlos Moreno", showNotes = true }: { profileName?: string; showNotes?: boolean }) {
   const [isOpen, setIsOpen] = useState(false);
   const pathname = usePathname();
   const navItems = useMemo(() => showNotes ? [...baseNavItems.slice(0, 2), { href: "/notas", label: "Notas" }, ...baseNavItems.slice(2)] : baseNavItems, [showNotes]);

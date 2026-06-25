@@ -4,7 +4,7 @@ import { getAdminEmails, isAdminAuthConfigured } from "@/lib/admin-auth";
 
 export const metadata = buildMetadata({
   title: "Admin",
-  description: "Panel privado de administración de Santie Bernal.",
+  description: "Panel privado de administración de Carlos Moreno.",
   path: "/admin/login",
   noIndex: true
 });

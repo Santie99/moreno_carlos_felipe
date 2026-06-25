@@ -1,7 +1,7 @@
 import type { Profile, Project, Service } from "@/types";
 
 export const profile: Profile = {
-  name: "Santie Bernal",
+  name: "Carlos Moreno",
   headline: "Product builder · Web tools · AI applied systems",
   shortBio:
     "Construyo herramientas web e IA para convertir procesos complejos en sistemas simples, medibles y accionables.",
