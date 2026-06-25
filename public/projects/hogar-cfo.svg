@@ -1,0 +1,23 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="48" fill="#07111F"/>
+  <rect x="56" y="56" width="1088" height="648" rx="36" fill="#0B1628" stroke="#1E3A5F"/>
+  <rect x="96" y="96" width="312" height="70" rx="20" fill="#111F35" stroke="#243B5B"/>
+  <text x="122" y="140" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="26" font-weight="700">Hogar CFO</text>
+  <rect x="930" y="106" width="150" height="46" rx="23" fill="#083344" stroke="#0E7490"/>
+  <text x="962" y="136" fill="#67E8F9" font-family="Arial, sans-serif" font-size="18" font-weight="700">Finance</text>
+  <rect x="96" y="206" width="440" height="410" rx="30" fill="#101C30" stroke="#263E5E"/>
+  <text x="132" y="268" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="34" font-weight="800">Domestic finance OS</text>
+  <rect x="132" y="332" width="338" height="20" rx="10" fill="#334155"/>
+  <rect x="132" y="372" width="288" height="20" rx="10" fill="#1E3A5F"/>
+  <rect x="132" y="432" width="164" height="86" rx="22" fill="#0F2A3B" stroke="#155E75"/>
+  <rect x="324" y="432" width="164" height="86" rx="22" fill="#111827" stroke="#334155"/>
+  <text x="164" y="483" fill="#67E8F9" font-family="Arial, sans-serif" font-size="28" font-weight="800">MVP</text>
+  <text x="356" y="483" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="28" font-weight="800">DATA</text>
+  <rect x="588" y="206" width="456" height="410" rx="30" fill="#0D1B2F" stroke="#263E5E"/>
+  <path d="M638 525C690 455 742 491 795 410C850 327 899 363 984 254" stroke="#67E8F9" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="638" cy="525" r="16" fill="#E2E8F0"/>
+  <circle cx="795" cy="410" r="16" fill="#E2E8F0"/>
+  <circle cx="984" cy="254" r="16" fill="#E2E8F0"/>
+  <rect x="638" y="560" width="332" height="18" rx="9" fill="#334155"/>
+  <rect x="638" y="594" width="242" height="18" rx="9" fill="#1E3A5F"/>
+</svg>

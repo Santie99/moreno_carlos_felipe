@@ -1,0 +1,13 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" rx="64" fill="#0A0F1F"/>
+  <circle cx="450" cy="380" r="190" fill="#1F2A44"/>
+  <circle cx="450" cy="330" r="92" fill="#7DD3FC" opacity="0.9"/>
+  <path d="M250 676C275 570 356 522 450 522C544 522 625 570 650 676V810H250V676Z" fill="#E2E8F0"/>
+  <rect x="102" y="78" width="258" height="58" rx="29" fill="#111827" stroke="#334155"/>
+  <text x="132" y="116" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="24" font-weight="700">Santie Bernal</text>
+  <rect x="542" y="104" width="234" height="48" rx="24" fill="#0F172A" stroke="#155E75"/>
+  <text x="568" y="136" fill="#67E8F9" font-family="Arial, sans-serif" font-size="18">Product Builder</text>
+  <rect x="122" y="846" width="656" height="146" rx="32" fill="#111827" stroke="#334155"/>
+  <text x="166" y="903" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="38" font-weight="800">Reemplaza esta imagen</text>
+  <text x="166" y="947" fill="#94A3B8" font-family="Arial, sans-serif" font-size="24">public/profile/santie-profile.jpg</text>
+</svg>
