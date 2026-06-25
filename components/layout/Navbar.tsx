@@ -23,7 +23,7 @@ export function Navbar({ profileName = "Santie Bernal", showNotes = true }: { pr
     <header className="sticky top-0 z-50 border-b border-white/10 bg-slate-950/80 backdrop-blur-xl">
       <nav className="container-page relative flex min-h-16 items-center justify-between gap-4 py-3">
         <Link href="/" onClick={closeMenu} className="focus-ring flex items-center gap-3 rounded-full">
-          <span className="grid size-10 place-items-center rounded-2xl bg-cyan-300 font-black text-slate-950">SB</span>
+          <span className="grid size-10 place-items-center rounded-2xl bg-cyan-300 font-black text-slate-950">CM</span>
           <span className="hidden text-sm font-bold text-white sm:inline">{profileName}</span>
         </Link>
 

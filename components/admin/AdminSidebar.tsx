@@ -20,9 +20,9 @@ export function AdminSidebar() {
     <aside className="border-b border-white/10 bg-slate-950/95 px-4 py-4 lg:fixed lg:inset-y-0 lg:left-0 lg:w-72 lg:border-b-0 lg:border-r lg:px-6">
       <div className="flex items-center justify-between gap-4 lg:block">
         <Link href="/admin" className="flex items-center gap-3">
-          <span className="grid h-10 w-10 place-items-center rounded-2xl bg-cyan-300 text-sm font-black text-slate-950">SB</span>
+          <span className="grid h-10 w-10 place-items-center rounded-2xl bg-cyan-300 text-sm font-black text-slate-950">CM</span>
           <span>
-            <span className="block text-sm font-black text-white">Santie Admin</span>
+            <span className="block text-sm font-black text-white">Pipe Admin</span>
             <span className="block text-xs text-slate-400">Panel privado</span>
           </span>
         </Link>
